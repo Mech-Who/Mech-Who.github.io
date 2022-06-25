@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Hexo-Knowledge
 subtitle: ''
 description: ''
 keywords:
@@ -104,6 +104,7 @@ theme: yilia
 deploy:
   type: git
   repo: https://github.com/Mech-Who/Mech-Who.github.io.git
+  branch: master
 
 # Json Content
 jsonContent:
