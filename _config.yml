@@ -104,7 +104,7 @@ theme: jekyll-theme-minimal
 deploy:
   type: git
   repo: https://github.com/Mech-Who/Mech-Who.github.io.git
-  branch: master
+  branch: main
 
 # Json Content
 jsonContent:
