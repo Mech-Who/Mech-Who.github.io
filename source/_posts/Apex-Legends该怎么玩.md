@@ -1,7 +1,9 @@
 ---
 title: Apex Legends该怎么玩?
 tags: games
+date: 2023-02-07 18:27:19
 ---
+
 # Apex Legends该怎么玩?
 
 玩Apex最重要的是两点: *资源收集* 和 *自身存活*
