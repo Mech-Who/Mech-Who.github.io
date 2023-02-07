@@ -41,9 +41,14 @@
 4. 使用以下命令将站点推送到github
 	hexo deploy # hexo博客部署,可以简写为hexo d
 
-## 四、问题记录
+## 四、仓库分支
 
-## 五、参考
+1. main - 部署分支
+2. write - 博客编辑分支(本地使用)
+
+## 五、问题记录
+
+## 六、参考
 
 1. 搭建参考博客: https://blog.csdn.net/weixin_45019350/article/details/121901433
 2. 问题解答参考博科: https://blog.csdn.net/weixin_58068682/article/details/116609960
