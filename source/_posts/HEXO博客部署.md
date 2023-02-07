@@ -42,3 +42,4 @@ tags:
 1. 搭建参考博客: https://blog.csdn.net/weixin_45019350/article/details/121901433
 2. 问题解答参考博科: https://blog.csdn.net/weixin_58068682/article/details/116609960
 3. Hexo文档: https://hexo.io/zh-cn/docs/
+4. 发布文章参考:https://blog.csdn.net/weixin_51667113/article/details/126455141

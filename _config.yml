@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo-Knowledge
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 'HuShuHans Hexo Blog!'
+subtitle: '一起见证我的成长吧!'
+description: '一点一滴的积累,总会有所收获,什么都可能见到哦!'
+keywords:  '生活常态'
+author: '胡舒涵'
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-minimal
+theme: hexo-theme-mustom-master
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
