@@ -1,7 +1,8 @@
 ---
-title: Apex Legends该怎么玩?
-tags: games
+title: ApexLegends该怎么玩?
 date: 2023-02-07 18:27:19
+tags: 
+	- games
 ---
 
 # Apex Legends该怎么玩?
